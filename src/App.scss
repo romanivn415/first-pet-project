@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@600;700&display=swap');
+
+:root{
+    --C1A: #151515;
+    --C1B: #575757;
+    --C1C: #A9A9A9;
+    --C1D: #D1D1D1;
+    --C1E: #EBEBEB;
+    --C1F: #F5F5F5;
+    --C1H: #F9F9F9;
+
+    --C2A: #6A983C;
+    --C2B: #46760A;
+    --C2C: #92C064;
+    --C2D: #C8DEB3;
+    --C2E: #F4F8EC;
+
+    --C3A: #D0A866;
+    --C3B: #B28A48;
+    --C3C: #ECD2A6;
+    --C3D: #FAEDD8;
+    --C3E: #FFF9F0;
+
+    --C4A: #E5704B;
+    --C4B: #C7522D;
+    --C4C: #EB8D70;
+    --C4D: #F7C6B7;
+    --C4E: #FFF1ED;
+
+    --C5A: #37D0D6;
+    --C5B: #19B2B8;
+    --C5C: #7CD0D3;
+    --C5D: #B9E6E8;
+    --C5E: #ECF6F6;
+}
+
+body{
+    font-family: 'Open Sans' sans-serif;
+    font-size: 14px;
+    line-height: 1.357rem;
+}
+h1, h2, h3, h4, h5, h6, button{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.4em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: 600;
+}
+h1{
+    font-size: 2.286rem;
+}
+h2{
+    font-size: 1.714rem;
+}
+h3{
+    font-size: 1.571rem;
+}
+h4{
+    font-size: 1.286rem;
+}
+h5{
+    font-size: 1.071rem;
+}
+h6{
+    font-size: .857rem;
+}
+
+button{
+    font-weight: 700;
+    font-size: 1.071rem;
+}
+
+.lead{
+    font-size: 1.214rem;
+}
+.caption{
+    font-size: .857rem;
+}
